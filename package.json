@@ -1,0 +1,26 @@
+{
+  "name": "fitness-tracking-app",
+  "version": "1.0.0",
+  "description": "It is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktyeon/SocketExerciseRecord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktyeon/SocketExerciseRecord/issues"
+  },
+  "homepage": "https://github.com/ktyeon/SocketExerciseRecord#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.1.2",
+    "ws": "^8.16.0"
+  }
+}
