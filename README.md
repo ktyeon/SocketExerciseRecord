@@ -1,2 +1,4 @@
 # SocketExerciseRecord
-It is 
+
+
+https://github.com/ktyeon/SocketExerciseWatch
